@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vansham904-maker/leetcode/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/vansham904-maker/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
