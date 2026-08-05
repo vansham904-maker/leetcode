@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vansham904-maker/leetcode/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/vansham904-maker/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/vansham904-maker/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/vansham904-maker/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
