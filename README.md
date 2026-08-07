@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vansham904-maker/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/vansham904-maker/leetcode/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/vansham904-maker/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1672-richest-customer-wealth](https://github.com/vansham904-maker/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vansham904-maker/leetcode/tree/master/0066-plus-one) |
 | [1137-n-th-tribonacci-number](https://github.com/vansham904-maker/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
