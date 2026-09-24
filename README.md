@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vansham904-maker/leetcode/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/vansham904-maker/leetcode/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vansham904-maker/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vansham904-maker/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
